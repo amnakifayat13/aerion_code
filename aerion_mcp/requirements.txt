@@ -1,0 +1,8 @@
+mcp
+motor
+dotenv
+cloudinary
+fastapi
+pydantic
+uvicorn
+aiohttp
